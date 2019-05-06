@@ -1,0 +1,2 @@
+# Floofette
+Bot for Discord
